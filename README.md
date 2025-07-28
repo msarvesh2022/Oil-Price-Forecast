@@ -1,6 +1,7 @@
+A web-based application for forecasting oil prices using SARIMA (Seasonal AutoRegressive Integrated Moving Average) time series model with interactive visualization.
+
 # Oil Price Time Series Forecasting
 
-A web-based application for forecasting oil prices using SARIMA (Seasonal AutoRegressive Integrated Moving Average) time series model with interactive visualization.
 
 ## Features
 
