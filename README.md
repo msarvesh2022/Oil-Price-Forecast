@@ -1,6 +1,7 @@
 A web-based application for forecasting oil prices using SARIMA (Seasonal AutoRegressive Integrated Moving Average) time series model with interactive visualization.
 
 # Oil Price Time Series Forecasting
+![image](https://github.com/msarvesh2022/Oil-Price-Forecast/blob/main/model_web_pic/oil_forecating.png)
 
 
 ## Features
